@@ -74,12 +74,12 @@ After training, the model is evaluated on the unseen test set to ensure its gene
 ### Performance Summary
 | Metric | Score |
 | :--- | :--- |
-| **Test Accuracy** | 0.00% |
-| **Weighted Precision** | 0.00 |
-| **Weighted Recall** | 0.00 |
-| **Weighted F1-Score** | 0.00 |
+| **Test Accuracy** | 97% |
+| **Weighted Precision** | 0.97 |
+| **Weighted Recall** | 0.97 |
+| **Weighted F1-Score** | 0.97 |
 
-> **Note:** TODO.
+> **Note:** Trained with 50 epoch
 
 ### Confusion Matrix
 The confusion matrix helps identify specific "confusion" between similar classes, such as *River* and *Highway*, or *Pasture* and *Meadow*.
