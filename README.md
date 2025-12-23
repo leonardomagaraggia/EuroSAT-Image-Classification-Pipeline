@@ -189,5 +189,5 @@ Distributed under the **MIT License**. See the `LICENSE` file for more informati
 ---
 
 **Developed by:** Leonardo Magaraggia 
-**GitHub:** [@your-username](https://github.com/your-username)  
-**Project Link:** [https://github.com/your-username/ImageClassificationPipeline](https://github.com/your-username/ImageClassificationPipeline)
+**GitHub:** [@leonardomagaraggia](https://github.com/leonardomagaraggia)  
+**Project Link:** [https://github.com/leonardomagaraggia/ImageClassificationPipeline](https://github.com/leonardomagaraggia/EuroSAT-Image-Classification-Pipeline)
