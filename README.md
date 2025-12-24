@@ -100,7 +100,7 @@ Clone the repository and create a dedicated virtual environment:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/leonardomagaraggia/EuroSAT-Image-Classification-Pipeline
 cd ImageClassificationPipeline
 
 
